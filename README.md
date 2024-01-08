@@ -1,5 +1,7 @@
 # AngularLocalization
 
+Demo Project to showcase localization using `ngx-translate` for multi languages - including english and arabic to show ltr and rtl direction.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
 ## Development server
