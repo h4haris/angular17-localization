@@ -1,0 +1,14 @@
+{
+    "TITLE_1": "مرحبا بالعالم!",
+    "CONGRATS": "مبروك! تطبيقك قيد التشغيل.",
+    "LANGUAGE_SELECTION": "تغيير اللغة",
+    "TITLE_2": "مرحبا {{loggedInUser}}، تفاصيل ملفك الشخصي هي",
+    "USER_INFO":{
+        "NAME":"اسم",
+        "WORKING_PROFILE":"ملف تعريف العمل",
+        "ADDRESS_DETAILS":"تفاصيل العنوان",
+        "PHONE_NUMBER":"رقم الهاتف",
+        "EMAIL_ADDRESS":"عنوان البريد الإلكتروني",
+        "RELEVANT_EXPERIENCE":"الخبرة ذات الصلة"
+    }
+}

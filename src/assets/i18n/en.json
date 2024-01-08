@@ -1,0 +1,14 @@
+{
+    "TITLE_1": "Hello world!",
+    "CONGRATS": "Congratulations! Your app is running.",
+    "LANGUAGE_SELECTION": "Change Language",
+    "TITLE_2": "Welcome {{loggedInUser}}, your profile details are",
+    "USER_INFO":{
+        "NAME":"Name",
+        "WORKING_PROFILE":"Working Profile",
+        "ADDRESS_DETAILS":"Address Details",
+        "PHONE_NUMBER":"Phone Number",
+        "EMAIL_ADDRESS":"Email Address",
+        "RELEVANT_EXPERIENCE":"Relevant Experience"
+    }
+}

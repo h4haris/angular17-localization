@@ -1,0 +1,14 @@
+{
+    "TITLE_1": "Salut tout le monde!",
+    "CONGRATS": "Félicitations! Votre application est en cours d’exécution.",
+    "LANGUAGE_SELECTION": "Changer la langue",
+    "TITLE_2": "Bienvenue {{loggedInUser}}, les détails de votre profil sont",
+    "USER_INFO":{
+        "NAME":"Nom",
+        "WORKING_PROFILE":"Profil de travail",
+        "ADDRESS_DETAILS":"Détails de l'adresse",
+        "PHONE_NUMBER":"Numéro de téléphone",
+        "EMAIL_ADDRESS":"Adresse e-mail",
+        "RELEVANT_EXPERIENCE":"Expérience pertinente"
+    }
+}
